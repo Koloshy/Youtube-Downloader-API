@@ -1,4 +1,11 @@
-Hello, you can call me Koloshy
+Hello, you can call me Koloshy, before anything you may would like to install the beneath packages
+in order to be able to run the application flawless.
+
+"   pip install python        "
+    pip install tkinter
+    pip install customtkinter
+    pip install pytube
+"                             "
 
 Welcome to my youtube downloader
 
